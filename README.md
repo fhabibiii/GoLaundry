@@ -22,7 +22,7 @@ GoLaundry MQTT Client adalah sebuah aplikasi berbasis Python yang memanfaatkan p
 1. Clone repository ini:
    ```bash
    git clone https://github.com/fhabibiii/GoLaundry.git
-   cd repo
+   cd GoLaundry
    ```
 2. Install dependensi yang dibutuhkan:
    ```bash
